@@ -1,9 +1,3 @@
-# Munging.py
-# Author: Jared Buehner
-# Class: SDEV 300
-# Professor: Muhammad Khan
-# Date: 06/16/2020
-
 # Imports.
 import pandas as pd
 import re
